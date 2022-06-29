@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Artur
+- 👀 I’m interested in games
+- 🌱 I’m currently learning JavaScript
